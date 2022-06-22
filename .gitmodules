@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sentometrics"]
+	path = sentometrics
+	url = https://github.com/sentometricsresearch/sentometrics
+	shallow = true
+	registered = true
